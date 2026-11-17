@@ -1,8 +1,8 @@
 class Goome < Formula
   desc "Single header C library for overlays, app windows and offscreen ui"
   homepage "https://github.com/goome-ui/c-goome"
-  url "https://github.com/goome-ui/c-goome/archive/refs/tags/v0.5.2.tar.gz"
-  sha256 "eb9536a247020f9fb7dbb487a92bfe939dabbda7463780ffc499096c99b3927f"
+  url "https://github.com/goome-ui/c-goome/archive/refs/tags/v0.5.3.tar.gz"
+  sha256 "e6487f9843a002ce75184aa07a8926df92a4ca1810f26a60e5a777786e998f3f"
   license "GPL-3.0-only"
   head "https://github.com/goome-ui/c-goome.git", branch: "main"
 
